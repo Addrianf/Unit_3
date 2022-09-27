@@ -7,7 +7,6 @@
 body {
   font-family: 'Merriweather', serif;
   margin: 0;
-  background-color: darkgray;
 }
 
 section {
@@ -119,9 +118,7 @@ select {
   padding: 30px 0 0 0;
   margin-bottom: 20px;
   border-top: solid 2px #2d3945;
-  display: flex;
   width: 100%;
-  justify-content: center;
 }
 label {
 margin-left: 8px;
@@ -202,7 +199,7 @@ label.other {
 
   .zip {
     justify-content: flex-start;
-    gap: 145px;
+    gap: 100px;
   }
 
   input[type="text"], 
